@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\SystemArchitecture\Desktop\企業実習\20200726CSV処理修正\顧客管理サンプルプログラム\workspace_luna_完成例\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3614666022.index
+2670149919.index
+1603702749.index
+2954509738.index
+1743044130.index

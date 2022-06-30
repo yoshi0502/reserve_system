@@ -1,0 +1,7 @@
+tomcatDir=C:/pleiades_luna/tomcat/7
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+contextsDir=C:/pleiades_luna/tomcat/7/conf/Catalina/localhost
+tomcatVersion=tomcatV7
+computeSourcePath=true
+tomcatConfigFile=C:/pleiades_luna/tomcat/7/conf/server.xml
